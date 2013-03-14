@@ -3,10 +3,10 @@
         xmlns:gap = "http://phonegap.com/ns/1.0"
         id        = "com.dawn.test"
         version   = "2.2.0">
-    <name>Dawn Test App</name>
+    <name></name>
 
     <description>
-        This is Dawn's Test app to learn
+        
     </description>
 
     <author href="http://phonegap.com" email="support@phonegap.com">
